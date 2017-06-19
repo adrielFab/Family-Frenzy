@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Bangers" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Play" rel="stylesheet">
+    <style>
+
+        body {
+            background: url(images/back.jpg) no-repeat center center fixed;
+            background-size: cover;
+
+        }
+        div {
+            text-align: center;
+        }
+
+        div h1 {
+            font-size: 180px;
+            font-family: 'Bangers', sans-serif;
+            height: 200px;
+            width: 450px;
+
+            position: fixed;
+            top: 30%;
+            left: 50%;
+            margin-top: -100px;
+            margin-left: -200px;
+            color: #fff;
+            animation: fadee 5s;
+        }
+
+        @keyframes fadee {
+            0% {
+                opacity: 0;
+                transform: rotate(0deg);
+            }
+
+            100% {
+                opacity: 1;
+                transform: rotate(1080deg);
+            }
+        }
+    </style>
+</head>
+
+<body>
+<div>
+    <a href="display.html"><h1> FAMILY FRENZY</h1></a>
+    <audio src="./sound/theme.mp3" type="audio/mp3" autoplay="autoplay"></audio>
+</div>
+</body>
+</html>
