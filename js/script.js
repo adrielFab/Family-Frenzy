@@ -41,103 +41,36 @@
             input : '',
             showX : [],
             round : [
-                /** Sample */
-
-                {
-                    question : 'Name a boy name',
-                    answers : ['Mark', 'John','Joseph', 'Karl', 'Brian', 'Louie']
-                },
-                /** Round 1 */
-                {
-                    question: 'Name something people do while listening to music?',
-                    answers: ['Cleaning', 'Exercising', 'Singing', 'Eating', 'Dancing', 'Driving', 'Studying']
-                },
-                {
-                    question: 'Name the first 8 plagues of the plagues of Egypt',
-                    answers: ['Water into blood', 'Frogs', 'Gnats/Lice', 'Flies', 'Diseased Livestock',
-                    'Boils', 'Thunder / Hail', 'Locust']
-                },
-                {
-                    question: 'Name an animal that we eat that will never eat us',
-                    answers: ['Cow', 'Chicken', 'Pig', 'Turkey', 'Lamb']
-                },
-                {
-                    question: 'Name 5 rivers mentioned in the Bible',
-                    answers : ['Nile', 'Tigris', 'Euphrates', 'Pishon', 'Gihon']
-                },
-                {
-                    question: 'Name a part of you body that looks different when you\'re sick',
-                    answers: ['Skin', 'Eyes', 'Nose', 'Hair']
-                },
-
-                /** Round 2 */
                 {
                     question: 'Name a sport that does not use a ball',
                     answers: ['Hockey', 'Swimming', 'Running/Track', 'Boxing', 'Wrestling', 
                     'Gymnastics', 'Badminton']
                 },
                 {
-                    question: 'Name an animal that is mentioned many times in the Bible',
-                    answers: ['Sheep', 'Lamb', 'Lion', 'Ox', 'Ram', 'Horse']
-                },
-                {
-                    question: 'Name an occasion where people give away flowers',
-                    answers: ['Valentine\'s day', 'Birthday', 'Funeral', 'Mother\'s day', 'Anniversary']
-                },
-                {
-                    question: 'Name 5 names mentioned in Jesus\'s genealogy',
-                    answers: ['Abraham', 'Jesse', 'David', 'Jacob', 'Joseph']
-                },
-                {
-                    question : 'Name something parents tell their kids not to waste',
-                    answers : ['Food', 'Money', 'Water', 'Electricity', 'Time']
-                },
+                    question : 'Name a word most people yell at their dogs',
+                    answers : ['No', 'Sit', 'Stop', 'Down', 'Fetch', 'Bad']
+                },              
 
-                /** Losers */
                 {
-                    question: 'Name something people do when they are sick',
-                    answers : ['Take a nap', 'Throw up', 'Take medicine', 'Eat soup', 'Drink water', 'Go to the doctor']
+                    question : 'What did God create in each day of the days of creation',
+                    answers : ['Night and Day', 'Sky and Sea','Land and Vegetation', 'Starts, Sun and Moon', 'Fish and Birds', 'Animals and Mankind']
                 },
                 {
-                    question: 'Name the 5 major prophetic books of the Bible',
-                    answers: ['Isaiah', 'Jeremiah', 'Lamentations', 'Ezekiel', 'Daniel']
+                    question: 'Name Something You Should Not Do When A Cop Pulls You Over',
+                    answers: ['Drive Away', 'Talk back', 'Swear', 'Get out of the car', 'Laugh', 'Cry', 'Lie']
                 },
                 {
-                    question: 'Name a tiny creature that frightens people',
-                    answers: ['Spider', 'Mouse/Rat', 'Snake', 'Cockroach', 'Bee']
+                    question: 'Name something huge that you hope does not break while you are riding it',
+                    answers: ['Car', 'Elevator', 'Plane', 'Roller Coaster', 'Bicycle', 'Train/Metro']
                 },
                 {
-                    question: 'Name a famous Bible trio',
-                    answers: ['Trinity', 'Abraham, Isaac, Jacob', 'Shadrach, Meshach, Abednego',
-                     'Peter, James and John', 'Hem, Shem, Japheth']
+                    question: 'Name Something A Kid In High School Could Do That Would Get Him Labeled As A "Nerd"',
+                    answers: ['Wears Glasses', 'Dress Funny', 'Bad at sports', 'Smart', 'Study too Much', 'Pocket protector', 'Plays Chess']
                 },
                 {
-                    question: 'Name a fruit with lots of seeds',
-                    answers: ['Watermelon', 'Pomegranate', 'Kiwi', 'Cantaloupe', 'Papaya']
+                    question: 'What is the first thing you notice when meeting someone new',
+                    answers : ['Hair', 'Smile', 'Eyes', 'Height', 'Nose', 'Clothes', 'Shoes']
                 },
-
-                /** Winners */
-                {
-                    question: 'Name an instrument that is too big to carry on an airplane',
-                    answers: ['Tuba', 'Piano', 'Cello', 'Harp', 'Drums', 'Saxophone', 'Trombone']
-                },
-                {
-                    question: 'Name 5 missionaries mentioned in the Bible',
-                    answers: ['Paul', 'Philip', 'Barnabas', 'Apollos', 'Aquilla/Prescilla']
-                },
-                {
-                    question: 'Name something people consider a snack food',
-                    answers: ['Chips', 'Popcorn', 'Crackers', 'Fruit', 'Cookies', 'Peanuts/Nuts' ]
-                },
-                {
-                    question: 'Name something you associate with Eve from the Bible',
-                    answers: ['Adam', 'Apple/Fruit', 'Snake', 'Sin', 'Garden']
-                },
-                {
-                    question : 'Name something a man had better not take along on his honeymoon',
-                    answers : ['Another woman', 'Cellphone', 'His Parents', 'Work/Laptop', 
-                    'His Best Friend', 'His Pet']
-                }
             ]
         },
 
